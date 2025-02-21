@@ -14,7 +14,7 @@ This project explores the relationship between **GDP and life expectancy** acros
 - `all_data.csv` – The dataset used in this project. 
 
 ## **Tools & Libraries**  
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)  
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels)  
 
 ## **How to Use**  
 1. Open `analysis.ipynb` in Jupyter Notebook.  
