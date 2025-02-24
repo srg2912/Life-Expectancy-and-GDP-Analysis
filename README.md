@@ -3,6 +3,9 @@
 ## **Overview**  
 This project explores the relationship between **GDP and life expectancy** across different countries. The analysis investigates whether higher GDP leads to longer life expectancy, identifies trends over time, detects anomalies, and assesses the reliability of predictive models.  
 
+## **Data**
+Dataset provided by Codecademy.
+
 ## **Key Findings**  
 - There is **no global correlation** between GDP and life expectancy, but each country follows its **own linear pattern**.  
 - Most countries show an **increase in life expectancy over time**, while GDP trends vary.  
